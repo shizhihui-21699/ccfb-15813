@@ -16,3 +16,8 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# 生成物
+data/
+out/
+_selftest/
